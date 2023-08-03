@@ -6,6 +6,8 @@ public class Galeri {
         arb.marka="Porsche";
         arb.model="911";
 
+        System.out.println(arb.marka+"-"+ arb.model);
+
 
     }
 }
